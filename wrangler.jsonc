@@ -5,7 +5,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"account_id": "6ca3fa16f4f94a6d565cdf361cab3b48",
-	"name": "buffer-undefined",
+	"name": "kimi",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-05-10",
 	"compatibility_flags": ["nodejs_compat"],
